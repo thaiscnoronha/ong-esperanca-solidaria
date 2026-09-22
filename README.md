@@ -2,7 +2,7 @@
 
 Aplicação web desenvolvida no formato **SPA (Single Page Application)** para a **ONG Esperança Solidária**, criada com foco na acessibilidade digital, estrutura semântica limpa em HTML5, estilização moderna e um sistema robusto de rotas e formulários.
 
-Aceso ao projeto em produção: [ong-esperanca-solidaria.vercel.app](https://ong-esperanca-solidaria.vercel.app)
+Acesso ao projeto em produção: [ong-esperanca-solidaria.vercel.app](https://ong-esperanca-solidaria.vercel.app)
 
 ---
 
